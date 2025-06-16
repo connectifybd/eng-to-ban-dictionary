@@ -1,0 +1,5 @@
+{
+  "name": "English-Bengali Dictionary",
+  "description": "An application to translate English words to Bengali and provide definitions, parts of speech, and example sentences using Gemini API, with a focus on Wiki dictionary knowledge.",
+  "requestFramePermissions": []
+}
